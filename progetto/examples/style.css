@@ -1,0 +1,36 @@
+#lista{
+	position: relative;
+	width: 18%;
+    margin: 0 auto;
+	float: right;
+}
+
+ul.style
+	{
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+	
+ul.style li
+	{
+		border-bottom: solid 1px #E5E5E5;
+		padding: 0.80em 0;
+		font-family: 'Muli', sans-serif;
+		font-size: 14px;
+		text-decoration: none;
+	}
+
+ul li a:hover{
+	
+	color: #aa0000;
+}
+	
+.title h2
+	{
+		font-family: 'Muli', sans-serif;
+		letter-spacing: 0.20em;
+		font-weight: 500;
+		font-size: 2em;
+		color: #00AABB;
+	}

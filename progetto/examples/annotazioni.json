@@ -1,0 +1,8 @@
+[{"id":"Portonovo","nodi":[
+                           {"x":0,"y":2,"z":0,"a":0,"b":2,"c":0,"d":7.34,"e":3.24,"f":6.35,"title":"Immagine","description":"<br><center><img src='http://www.rivieradelconero.info/media/widgetkit/spiaggia-portonovo_001-8a6969387759b95f878c3f29bd5b97e5.jpg' width='200px'/></center>"},
+                           {"x":5,"y":2,"z":0,"a":0,"b":2,"c":0,"d":7.34,"e":3.24,"f":6.35,"title":"Portonovo","description":"Collina"},
+                           {"x":0,"y":2,"z":5,"a":0,"b":2,"c":0,"d":7.34,"e":3.24,"f":6.35,"title":"Link","description":"Collina di Portonovo (<a href='https://it.wikipedia.org/wiki/Portonovo' target='_blank'>Wikipedia</a>)"}]},
+ {"id":"Sirolo","nodi":[
+                        {"x":0,"y":2,"z":0,"a":0,"b":2,"c":0,"d":7.34,"e":3.24,"f":6.35,"title":"Immagine","description":"<br><center><img src='http://www.turismosirolo.it/images/gallery-home/sirolo10.jpg' width='200px'/></center>"},
+                        {"x":5,"y":2,"z":0,"a":0,"b":2,"c":0,"d":7.34,"e":3.24,"f":6.35,"title":"Sirolo","description":"Spiaggia"},
+                        {"x":0,"y":2,"z":5,"a":0,"b":2,"c":0,"d":7.34,"e":3.24,"f":6.35,"title":"Link","description":"Sirolo  (<a href='https://it.wikipedia.org/wiki/Sirolo' target='_blank'>Wikipedia</a>)"}]}]
