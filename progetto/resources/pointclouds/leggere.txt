@@ -1,3 +1,0 @@
-Creare qui una cartella ed inserire all’interno il file cloud.js e la cartella data estratti dalla conversione della nuvola di punti tramite potreeconverter.exe
-
-Esempio: cartella (portonovo) —> cloud.js , cartella (data)
